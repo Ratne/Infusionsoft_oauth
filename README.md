@@ -9,7 +9,7 @@ PORT= la porta in ascolto di nodejs
 
 CLIENTID= API key da https://keys.developer.keap.com/
 
-CLIENTSECRET= APi secret https://keys.developer.keap.com/
+CLIENTSECRET= API secret https://keys.developer.keap.com/
 
 CALLBACKURL=URL/auth/infusionsoft/callback
 
