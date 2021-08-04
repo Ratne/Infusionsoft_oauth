@@ -16,3 +16,10 @@ CALLBACKURL=URL/auth/infusionsoft/callback
 Recarsi nel vostro URL e cliccare Authorize per effettuare il login in infusionsoft
 
 Ogni 6 ore viene invocato il refreshtoken per poter continuare ad usare l'applicazione
+
+## Installazione
+
+### Per [Node.js](https://nodejs.org/)
+```shell
+npm install
+```
