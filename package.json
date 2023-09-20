@@ -16,7 +16,7 @@
     "node-cron": "^3.0.0",
     "nodejs-base64-converter": "^1.0.5",
     "passport": "^0.4.1",
-    "passport-infusionsoft": "0.0.3"
+    "@ratne/passport-infusionsoft": "0.0.3"
   },
   "devDependencies": {
     "nodemon": "^2.0.12"
